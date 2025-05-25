@@ -8,7 +8,7 @@
 ## https://discord.gg/uZSgCDuCxd
 ## https://discord.gg/uZSgCDuCxd
 
-ما احلل ولا اسامح اي شخص يشيل الحقون او ينشر بدون حقوقنا
+ما احلل ولا اسامح اي شخص يشيل حقوقنا او ينشر بدون حقوقنا
 
 حط هاذا الكود في ملف 
 ## \interact\shared\settings
